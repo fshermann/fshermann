@@ -1,5 +1,3 @@
-### Welcome!
-
 #### What I Do:
 Data Viz Instructor @ Butler University  
 Clinical Research Specialist @ Indiana University School of Medicine  
