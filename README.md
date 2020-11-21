@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome!
+
+#### What I Do:
+Data Viz Instructor @ Butler University  
+Clinical Research Specialist @ Indiana University School of Medicine  
 
 <!--
 **fshermann/fshermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
