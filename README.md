@@ -1,6 +1,19 @@
 #### What I Do:
 Data Viz Instructor @ Butler University  
-Business Technology @ Tavel Optometry
+Business Technology | Data Science | Engineer @ Tavel Optometry
+
+#### Languages
+- Python
+- JavaScript
+- SQL
+
+#### Frontend Frameworks
+- Vue
+- React
+
+#### Backend Frameworks
+- Flask
+- Express
 
 <!--
 **fshermann/fshermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
