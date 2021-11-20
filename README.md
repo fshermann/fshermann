@@ -1,7 +1,7 @@
 #### What I Do:
 Software Engineer @ Dr. Tavel Optical Group
 
-#### Technologies
+#### Technologies:
 - Python
 - JavaScript
 - SQL
