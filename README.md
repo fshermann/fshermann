@@ -1,17 +1,11 @@
 #### What I Do:
-Data Viz Instructor @ Butler University  
-Business Technology | Data Science | Engineer @ Tavel Optometry
+Software Engineer @ Dr. Tavel Optical Group
 
-#### Languages
+#### Technologies
 - Python
 - JavaScript
 - SQL
-
-#### Frontend Frameworks
-- Vue
 - React
-
-#### Backend Frameworks
 - Flask
 - Express
 
