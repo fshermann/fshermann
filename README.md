@@ -1,13 +1,5 @@
 #### What I Do:
-Software Engineer @ Dr. Tavel Optical Group
-
-#### Technologies:
-- Python
-- JavaScript
-- SQL
-- React
-- Flask
-- Express
+Cloud Operations Engineer @ Shutterstock
 
 <!--
 **fshermann/fshermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
