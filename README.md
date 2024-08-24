@@ -1,5 +1,5 @@
 #### What I Do:
-Cloud Operations Engineer @ Shutterstock
+Senior Cloud Engineer @ Shutterstock
 
 <!--
 **fshermann/fshermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
