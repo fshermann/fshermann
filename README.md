@@ -1,5 +1,5 @@
 #### What I Do:
-Software Architect @ Dr. Tavel Optical Group
+Head of Software Engineering @ Dr. Tavel Optical Group
 
 <!--
 **fshermann/fshermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
